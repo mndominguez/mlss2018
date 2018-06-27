@@ -1,0 +1,5 @@
+# Tensorflow
+
+## Abstract
+
+TensorFlow is a machine learning system that operates at large scale and in heterogeneous environments. Its computational model is based on dataflow graphs with mutable state. Graph nodes may be mapped to different machines in a cluster, and within each machine to CPUs, GPUs, and custom ASICs. TensorFlow supports a variety of applications, but it particularly targets training and inference with deep neural networks. It serves as a platform for research and for deploying machine learning systems across many areas, such as speech recognition, computer vision, robotics, information retrieval, and natural language processing. In these lectures, we will describe TensorFlow's programming models, some aspects of its implementation, and some of the underlying theory. TensorFlow is joint work with many other people in the Google Brain team and elsewhere. More information is available at tensorflow.org.

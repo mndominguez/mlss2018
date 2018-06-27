@@ -1,0 +1,5 @@
+# Deep Neural Networks
+
+## Abstract
+
+In this lecture, I'll start by covering the basic concepts behind feedforward neural networks. I'll present forward propagation and backpropagation in neural networks. Specifically, I'll discuss the parameterization of feedforward nets, the most common types of units, the capacity of neural networks and how to compute the gradients of the training loss for classification with neural networks. I'll discuss the training of neural networks by gradient descent and then discuss the more recent ideas that are now commonly used for training deep neural networks. Then, I'll discuss various types of neural network architectures, designed to address a variety of learning problems (supervised, multi-task, one-shot, zero-shot, meta-learning). Finally, I'll end with a discussion of some of the intriguing properties of neural networks that are the object of a lot of research today.

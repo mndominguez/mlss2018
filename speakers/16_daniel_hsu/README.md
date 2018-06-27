@@ -1,0 +1,5 @@
+# Learning latent variable models using tensor decompositions
+
+## Abstract
+
+This tutorial surveys algorithms for learning latent variable models based on the method-of-moments, focusing on algorithms based on low-rank decompositions of higher-order tensors. The target audiences of the tutorial include (i) users of latent variable models in applications, and (ii) researchers developing techniques for learning latent variable models. The only prior knowledge expected of the audience is a familiarity with simple latent variable models (e.g., mixtures of Gaussians), and rudimentary linear algebra and probability. The audience will learn about new algorithms for learning latent variable models, techniques for developing new learning algorithms based on spectral decompositions, and analytical techniques for understanding the aforementioned models and algorithms. Advanced topics such as learning overcomplete representations may also be discussed.

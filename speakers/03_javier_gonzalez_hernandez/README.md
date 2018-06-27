@@ -1,0 +1,5 @@
+# Gaussian processes for Uncertainty Quantification
+
+## Abstract
+
+In these three lectures we will cover different theoretical and practical aspects of Gaussian processes (GPs) and how they can be used for making decisions under uncertainty. The first lecture will be an introduction to GPs. We will review the basic concepts of GPs, explore some connections with other related techniques and show how to use them in practice. The second lecture will present different ways in which GPs can be used for decision making. We will focus on cases in which taking into account uncertainty coming from the predictions of the GPs is a key element. In particular, we will describe how GPs can be used for optimization, quadrature and experimental design. In the third lecture students will take part in a hands-on lab, using different Python libraries to see these methods at work. There are no pre-requisites for the lectures but a general background in machine learning is recommended. For the practical sessions a laptop with some version of Python (preferably Conda) is desirable.

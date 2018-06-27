@@ -1,0 +1,5 @@
+# A Primer on Optimal Transport
+
+## Abstract
+
+Optimal transport (OT) provides a powerful and flexible way to compare probability measures, discrete and continuous, which includes therefore point clouds, histograms, datasets, parametric and generative models. Originally proposed in the eighteenth century, this theory later led to Nobel Prizes for Koopmans and Kantorovich as well as Villani’s Fields Medal in 2010. OT recently has reached the machine learning community, because it can tackle challenging learning scenarios including dimensionality reduction, structured prediction problems that involve histogram outputs, and estimation of generative models such as GANs in highly degenerate, high-dimensional problems. Despite very recent successes bringing OT from theory to practice, OT remains challenging for the machine learning community because of its mathematical formality. This tutorial will introduce in an approachable way crucial theoretical, computational, algorithmic and practical aspects of OT needed for machine learning applications.
