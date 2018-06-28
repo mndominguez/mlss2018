@@ -12,3 +12,7 @@ How do we engineer machines that reason? This is a question that has long vexed 
 * [GitHub - Tobias-Kohn/PyFOPPL: A FOPPL-Implementation in Python (Lisp-based Probabilistic Programming)](https://github.com/Tobias-Kohn/PyFOPPL)
 * [Pyro Programming Language](http://pyro.ai/)
 * [Stan Programming Language](http://mc-stan.org/)
+
+## Other resources
+
+* [Peter Norvig's (How to Write a (Lisp) Interpreter (in Python))](http://norvig.com/lispy.html)
