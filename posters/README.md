@@ -7,4 +7,4 @@ These are the posters presented on Machine Learning Summer School 2018 - Buenos 
 ## Author/Titles
 
 * Agustina Arroyuelo/Bayesian Model-comparison Of Biomolecular
-
+* Martin Miguel/Beat tracking model for cognitive evaluation
